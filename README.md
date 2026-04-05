@@ -41,5 +41,5 @@ Built with ❤️ by an amazing engineering team:
 - [Mohamed Badra](https://github.com/MWbadra)
 - [Amir Tamer](https://github.com/amirtamer-27)
 - [Moaz Ahmed](https://github.com/Moaz715)
-- [Basem Walid](https://github.com/basem0w)  
+- [Basem Walid](https://github.com/basemw0)  
 - [Omar Fouad](https://github.com/omarrrfouad)
