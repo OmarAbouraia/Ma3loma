@@ -31,7 +31,7 @@ This project moves beyond basic CRUD by implementing industry-standard infrastru
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/basemw0/Ma3loma.git](https://github.com/basemw0/Ma3loma.git)
+git clone [https://github.com/OmarAbouraia/Ma3loma.git](https://github.com/OmarAbouraia/Ma3loma.git)
 cd ma3loma
 ```
 
@@ -41,5 +41,5 @@ Built with ❤️ by an amazing engineering team:
 - [Mohamed Badra](https://github.com/MWbadra)
 - [Amir Tamer](https://github.com/amirtamer-27)
 - [Moaz Ahmed](https://github.com/Moaz715)
-- [Omar Abouraia](https://github.com/OmarAbouraia)  
+- [Basem Walid](https://github.com/basem0w)  
 - [Omar Fouad](https://github.com/omarrrfouad)
