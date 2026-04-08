@@ -43,3 +43,30 @@ Built with ❤️ by an amazing engineering team:
 - [Moaz Ahmed](https://github.com/Moaz715)
 - [Basem Walid](https://github.com/basemw0)  
 - [Omar Fouad](https://github.com/omarrrfouad)
+---
+
+## 🌟 Support & Feedback
+
+⭐ **Give it a Star** to support the project!
+💡 **Have suggestions or found a bug?**  
+- 🐛 Open an issue for bugs
+- Or reach out directly using the links below
+ 
+
+## 📬 Contact
+
+<p align="center">
+
+<a href="mailto:omara862005@gmail.com?subject=TinyTelemetry%20Feedback&body=Hi%20Eng.%20Omar%20Abouraia,%0A%0AI%20would%20like%20to%20share%20some%20feedback...">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/omarabouraia/">
+  <img src="https://img.shields.io/badge/LinkedIn-Omar%20Abouraia-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/OmarAbouraia">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
